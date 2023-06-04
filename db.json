@@ -29,7 +29,7 @@
 
     "alarmstate":
     {
-        "status": true
+        "status": false
     },
 
     "undergrounds": [
