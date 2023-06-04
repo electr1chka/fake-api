@@ -2,19 +2,53 @@
     "groups": [
         {
             "id": 1,
-            "name": "ПІ-191"
+            "name": "ПІ-191",
+            "underground": 1
         },
         {
             "id": 2,
-            "name": "ПІ-192"
+            "name": "ПІ-192",
+            "underground": 2
         },
         {
             "id": 3,
-            "name": "КІ-191"
+            "name": "КІ-191",
+            "underground": 3
         },
         {
             "id": 4,
-            "name": "КІ-192"
+            "name": "КІ-192",
+            "underground": 4
+        },
+        {
+            "id": 5,
+            "name": "КІ-193",
+            "underground": 1
+        }
+    ],
+
+    "alarmstate":
+    {
+        "status": false
+    },
+
+    "undergrounds": [
+        {
+            "id": 1,
+            "description": "Library"
+        },
+        {
+            "id": 2,
+            "description": "Assembly Hall"
+        },
+        {
+            "id": 3,
+            "description": "Basement of defense of the motherland"
+        },
+        {
+            "id": 4,
+            "description": "Gym"
         }
     ]
+
 }
