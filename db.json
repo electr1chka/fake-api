@@ -49,6 +49,24 @@
             "id": 4,
             "description": "Gym"
         }
+    ],
+
+    "messages": [
+        {
+            "id": 1,
+            "description": "The emergency is over!",
+            "actions": "Get back to your life!" 
+        },
+        {
+            "id": 2,
+            "description": "Air alarm!",
+            "actions": "Keep calm and move toward your stash in an organized manner!"
+        },
+        {
+            "id": 3,
+            "description": "Fire!",
+            "actions": "Keep calm and move in an organized manner towards the nearest exit from the building!"
+        }
     ]
 
 }
