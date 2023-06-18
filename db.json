@@ -35,19 +35,23 @@
     "undergrounds": [
         {
             "id": 1,
-            "description": "Library"
+            "description": "Assembly Hall",
+            "corps": 1
         },
         {
             "id": 2,
-            "description": "Assembly Hall"
+            "description": "Basement of defense of the motherland",
+            "corps": 1
         },
         {
             "id": 3,
-            "description": "Basement of defense of the motherland"
+            "description": "Library",
+            "corps": 1
         },
         {
             "id": 4,
-            "description": "Gym"
+            "description": "Gym",
+            "corps": 2
         }
     ],
 
